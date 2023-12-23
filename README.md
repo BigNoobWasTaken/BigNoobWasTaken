@@ -6,7 +6,7 @@ I want to create some new technology.
 
 I am currently working on some pinned repositories.
 
-Some projects are comming in someday if I think how thoes projects works.
+Some projects are comming in someday if I think how new projects works.
 
 <!--
 **BigNoobWasTaken/BigNoobWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
