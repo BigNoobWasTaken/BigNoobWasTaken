@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a C/C++ programmer.
+
+I want to create some new technology.
+
 <!--
 **BigNoobWasTaken/BigNoobWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
