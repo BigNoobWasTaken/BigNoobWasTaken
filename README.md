@@ -4,7 +4,7 @@ I am a C/C++ programmer.
 
 I want to create some new technology.
 
-I am currently working on some pinned libraries.
+I am currently working on some pinned repositories.
 
 Some projects are comming in someday if I think how thoes projects works.
 
