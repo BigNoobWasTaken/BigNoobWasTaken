@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![BigNoobWasTaken's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigNoobWasTaken&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigNoobWasTaken&layout=pie&theme=dark)](#)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BigNoobWasTaken&repo=Tensor-Array&theme=dark)](#)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BigNoobWasTaken&repo=Tensor-Array&theme=dark)](https://github.com/BigNoobWasTaken/Tensor-Array)
