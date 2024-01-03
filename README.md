@@ -1,13 +1,3 @@
-### Hi there 👋
-
-I am a C/C++ programmer.
-
-I want to create some new technology.
-
-I am currently working on some pinned repositories.
-
-Some projects are comming in someday if I think how new projects works.
-
 <!--
 **BigNoobWasTaken/BigNoobWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![BigNoobWasTaken's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigNoobWasTaken&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/BigNoobWasTaken/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigNoobWasTaken&layout=pie&theme=dark)](https://github.com/BigNoobWasTaken/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BigNoobWasTaken&repo=Tensor-Array&theme=dark)](https://github.com/BigNoobWasTaken/github-readme-stats)
